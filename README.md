@@ -34,7 +34,7 @@ Global Unemployment Market Analysis
 
 - Highly developed countries have a higher disparity between youth and adult unemployment rate owing to higher educational requirements and robust work experience to secure a job.
 
-- Less developed countries which rely on informal sectors and have lower legal working age have relatively lower youth unemployment rate
+- Less developed countries which rely on informal sectors and have lower legal working age have relatively lower youth unemployment rate.
 
 
 ## Tech Stack:
